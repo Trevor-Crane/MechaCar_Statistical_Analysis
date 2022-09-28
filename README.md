@@ -14,9 +14,9 @@ When once again looking at our summary output, we can see that our r-squared val
 
 ## Summary Statistics on Suspension Coils
 We were also given results produced from multiple production lots that tests weight capacity of multiple suspension coils to determine if the manufacturing process in consistent across the lots. To help us determine this, we looked at the mean, median, variance, and the standard deviation for all the lots, as well as each lot indiviually. Here is the results for all the lots: <br>
-(insert total summary here) <br>
+![total_summary](https://user-images.githubusercontent.com/107770394/192892027-def874e3-4701-4611-b8dc-1eebda2c3b53.png) <br>
 And here is the results for each lots here: <br>
-(insert lot summary here) <br>
+![lot_summary](https://user-images.githubusercontent.com/107770394/192892086-0b015e97-f64b-4dc3-94d9-319bcb2ac6e3.png) <br>
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. As a whole, the manufacturing lots are upholding this design specifications with a variance of 62.29. However, upon closer inspection of each lot, lot three has a variance of 170.29, which doesn't meet the design specifications.
 
 ## T-Tests on Suspension Coils
